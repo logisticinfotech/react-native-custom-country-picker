@@ -1,15 +1,14 @@
 {
   "name": "@logisticinfotech/react-native-custom-country-picker",
   "title": "React Native Custom Country Picker",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "React Native Custom Country Picker",
   "main": "index.tsx",
   "files": [
     "README.md",
-    "android",
     "index.tsx",
-    "ios",
-    "src"
+    "src",
+    "res"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -32,11 +32,10 @@ CountryPicker;
 > **npm install @logisticinfotech/react-native-custom-country-picker --save**
 
 
-  
-<img  width="250" height="400" src="android.jpg">
-  
-<img  width="250" height="400" src="iPhone.png">
-
+<div>
+<img  width="90" height="200" src="android.jpg"> 
+<img  width="92" height="200" src="iPhone.png">
+</div>
 
 
 ## Usage

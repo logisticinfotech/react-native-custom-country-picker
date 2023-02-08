@@ -2,15 +2,15 @@
 
 ## Getting started
 
-`$ npm install react-native-custom-country-picker --save`
+`$ npm install @logisticinfotech/react-native-custom-country-picker --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-custom-country-picker`
+`$ react-native link @logisticinfotech/react-native-custom-country-picker`
 
 ## Usage
 ```javascript
-import CountryPicker from 'react-native-custom-country-picker';
+import CountryPicker from '@logisticinfotech/react-native-custom-country-picker';
 
 // TODO: What to do with the module?
 CountryPicker;
@@ -29,14 +29,16 @@ CountryPicker;
 
 ## Installation
 
-> **npm install react-native-custom-country-picker --save**
+> **npm install @logisticinfotech/react-native-custom-country-picker --save**
 
+![](android.png)
+ ![](iPhone.png)
 ## Usage
 
 ```tsx
 import React, {useState} from 'react';
 import {StatusBar, StyleSheet, Text, View} from 'react-native';
-import CountryPicker from 'react-native-custom-country-picker';
+import CountryPicker from '@logisticinfotech/react-native-custom-country-picker';
 
 const App = () => {
   const [countryCode, setCountryCode] = useState<string>('IN');

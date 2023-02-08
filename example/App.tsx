@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {StatusBar, StyleSheet, Text, View} from 'react-native';
-import CountryPicker from 'react-native-custom-country-picker';
+import CountryPicker from '@logisticinfotech/react-native-custom-country-picker';
 
 const App = () => {
   const [countryCode, setCountryCode] = useState<string>('IN');

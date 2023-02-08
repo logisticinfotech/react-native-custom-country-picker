@@ -1,7 +1,7 @@
 {
   "name": "@logisticinfotech/react-native-custom-country-picker",
   "title": "React Native Custom Country Picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Custom Country Picker",
   "main": "index.tsx",
   "files": [

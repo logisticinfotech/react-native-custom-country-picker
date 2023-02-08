@@ -1,0 +1,43 @@
+{
+  "name": "@logisticinfotech/react-native-custom-country-picker",
+  "title": "React Native Custom Country Picker",
+  "version": "1.0.0",
+  "description": "React Native Custom Country Picker",
+  "main": "index.tsx",
+  "files": [
+    "README.md",
+    "android",
+    "index.tsx",
+    "ios",
+    "react-native-custom-country-picker.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logisticinfotech/react-native-custom-country-picker.git",
+    "baseUrl": "https://github.com/logisticinfotech/react-native-custom-country-picker"
+  },
+  "keywords": [
+    "react-native",
+    "country",
+    "country-picker",
+    "custom-country-picker"
+  ],
+  "author": {
+    "name": "Avruti Savaliya",
+    "email": "avruti@logisticinfotech.co.in"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}

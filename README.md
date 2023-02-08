@@ -31,8 +31,8 @@ CountryPicker;
 
 > **npm install @logisticinfotech/react-native-custom-country-picker --save**
 
-![](android.png)
- ![](iPhone.png)
+![](android.jpg)  ![](iPhone.png)
+
 ## Usage
 
 ```tsx

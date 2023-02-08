@@ -9,7 +9,7 @@
     "android",
     "index.tsx",
     "ios",
-    "react-native-custom-country-picker.podspec"
+    "src"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
